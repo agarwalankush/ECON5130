@@ -78,13 +78,4 @@ the repository contents and run
 cd path/to/repository
 jupyter notebook index.ipynb
 ```
-
-
 ***
-
-## Licence
-
-This material is licensed under a 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/),
-except for the data files contained in the `data/` folder, which
-fall under the terms imposed by the original content creators.
