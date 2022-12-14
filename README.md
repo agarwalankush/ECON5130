@@ -10,7 +10,7 @@ as a static PDF file.
 
 | Unit | Title | PDF |
 |------|-------|-----|
-| 1    | Basics of machine learning classifiers | []|
+| 1    | Basics of machine learning classifiers | [PDF]|(./lecture1/lecture1.pdf)
 
 ***
 
