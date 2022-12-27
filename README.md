@@ -11,7 +11,7 @@ as a static PDF file.
 | Unit | Title | PDF |
 |------|-------|-----|
 | 1    | Basics of machine learning classifiers | [PDF](./lecture1/lecture1.pdf)|
-
+| 2    | Machine learning classifiers using scikit-learn | [PDF](./lecture2/lecture2.pdf)|
 ***
 
 ```
