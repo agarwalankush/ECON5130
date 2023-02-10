@@ -18,3 +18,5 @@
   - Broadening the output spectrum using a hyperbolic tangent
   - Rectified linear unit activation
   - Estimating class probabilities in multiclass classification via the softmax function
+- Simplifying implementations of common architectures via the torch.nn module
+    - Implementing models based on nn.Sequential

@@ -15,6 +15,7 @@ The lecture content is based on the machine learning book of @rasbt
 | 1    | Basics of machine learning classifiers | [PDF](./lecture1/lecture1.pdf)|
 | 2    | Machine learning classifiers using scikit-learn | [PDF](./lecture2/lecture2.pdf)|
 | 3    | Multi-layer Artificial Neural Network  | [PDF](./lecture3/lecture3.pdf)|
+| 4    | Introduction to PyTorch for Neural Networks  | [PDF](./lecture4/lecture4.pdf)|
 ***
 
 ```
