@@ -16,6 +16,7 @@ The lecture content is based on the machine learning book of @rasbt
 | 2    | Machine learning classifiers using scikit-learn | [PDF](./lecture2/lecture2.pdf)|
 | 3    | Multi-layer Artificial Neural Network  | [PDF](./lecture3/lecture3.pdf)|
 | 4    | Introduction to PyTorch for Neural Networks  | [PDF](./lecture4/lecture4.pdf)|
+| 5    | Recurrent Neural Networks for Modeling Sequential Data  | [PDF](./lecture5/lecture5.pdf)|
 ***
 
 ```
