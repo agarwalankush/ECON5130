@@ -1,10 +1,10 @@
-# Machine Learning in Finance with Python - Part 2: Introduction to Machine Learning
+# Machine Learning in Finance with Python 
 
 Author: Ankush Agarwal, University of Glasgow
 
 ## Units
 
-This introductory course consists of five units. Each unit corresponds
+This introductory course consists of ten units. Each unit corresponds
 to one interactive Jupyter notebook, which is also available
 as a static PDF file. 
 
@@ -17,6 +17,11 @@ The lecture content is based on the machine learning book of @rasbt
 | 3    | Multi-layer Artificial Neural Network  | [PDF](./lecture3/lecture3.pdf)|
 | 4    | Introduction to PyTorch for Neural Networks  | [PDF](./lecture4/lecture4.pdf)|
 | 5    | Recurrent Neural Networks for Modeling Sequential Data  | [PDF](./lecture5/lecture5.pdf)|
+| 6    | Transformers for Natural Language Processing  | |
+| 7    | Generative Adversarial Networks for Synthetic Data  | |
+| 8    | Gaussian Process Regression  | |
+| 9    | Decision Trees and Random Forests | |
+| 10    | Ensemble Learning - Gradient Boosting | |
 ***
 
 ```
