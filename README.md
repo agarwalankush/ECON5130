@@ -8,7 +8,7 @@ This introductory course consists of ten units. Each unit corresponds
 to one interactive Jupyter notebook, which is also available
 as a static PDF file. 
 
-The lecture content is based on the machine learning book of @rasbt
+The lecture content is based on the books *Machine Learning with Pytorch and Scikit-learn* by @rasbt.
 
 | Unit | Title | PDF |
 |------|-------|-----|
