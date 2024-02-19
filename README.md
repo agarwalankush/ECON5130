@@ -17,11 +17,11 @@ The lecture content is based on the books *Machine Learning with Pytorch and Sci
 | 3    | Multi-layer Artificial Neural Network  | [PDF](./lecture3/lecture3.pdf)|
 | 4    | Introduction to PyTorch for Neural Networks  | [PDF](./lecture4/lecture4.pdf)|
 | 5    | Recurrent Neural Networks for Modeling Sequential Data  | [PDF](./lecture5/lecture5.pdf)|
-| 6    | Transformers for Natural Language Processing  | |
-| 7    | Generative Adversarial Networks for Synthetic Data  | |
-| 8    | Gaussian Process Regression  | |
+| 6    | Self-Attention in Transformers |(./lecture6/lecture6.pdf)|
+| 7    | Transformers in Practice | |
+| 8    | Generative Adversarial Networks for Synthetic Data  | |
 | 9    | Decision Trees and Random Forests | |
-| 10    | Ensemble Learning - Gradient Boosting | |
+| 10   | Ensemble Learning - Gradient Boosting | |
 ***
 
 ```
