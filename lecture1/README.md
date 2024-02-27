@@ -1,7 +1,5 @@
 ##  Lecture 1: Basics of machine learning classifiers
 
-### Outline
-
 - The perceptron learning rule
     - When can we use the perceptron learning rule?
     - Learning the perceptron learning rule from data
