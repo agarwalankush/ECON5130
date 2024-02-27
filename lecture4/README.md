@@ -1,7 +1,5 @@
 ##  Lecture 4 - Introduction to PyTorch for Neural Networks 
 
-### Outline
-
 - What is PyTorch?
   - Installing PyTorch
   - Creating tensors in PyTorch
