@@ -1,9 +1,6 @@
 
 ##  Lecture 8: Generative Adversarial Networks for Synthesizing New Data
 
-
-### Outline
-
 - Introducing generative adversarial networks
   - Starting with autoencoders
   - Generative models for synthesizing new data
