@@ -1,7 +1,5 @@
 ##  Lecture 2: Machine Learning Classifiers Using Scikit-Learn
 
-### Outline
-
 - Choosing a classification algorithm
 - First steps with scikit-learn
     - Training a perceptron via scikit-learn
