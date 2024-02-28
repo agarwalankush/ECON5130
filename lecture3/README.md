@@ -1,7 +1,5 @@
 ##  Lecture 3 - Multi-layer Artificial Neural Network 
 
-### Outline
-
 - Modeling complex functions with artificial neural networks
   - Single-layer neural network recap
   - Introducing the multi-layer neural network architecture
