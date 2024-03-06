@@ -22,5 +22,4 @@
   - Gradient penalty
   - Implementing WGAN-GP to train the DCGAN model
   - Mode collapse
-  - Other GAN applications
   
