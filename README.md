@@ -19,7 +19,7 @@ The lecture content is based on the book *Machine Learning with Pytorch and Scik
 | 7    | Transformers in Practice |[PDF](./lecture7/lecture7-part-1.pdf) [PDF](./lecture7/lecture7-part-2.pdf) |
 | 8    | Generative Adversarial Networks for Synthetic Data |[PDF](./lecture8/lecture8-part-1.pdf) [PDF](./lecture8/lecture8-part-2.pdf) |
 | 9    | Decision Trees and Random Forests | [PDF](./lecture9/lecture9.pdf)|
-| 10   | Ensemble Learning - Gradient Boosting | |
+| 10   | Ensemble Learning | [PDF](./lecture10/lecture10.pdf)|
 ***
 
 ```
